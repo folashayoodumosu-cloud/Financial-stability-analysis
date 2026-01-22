@@ -31,3 +31,5 @@ the financial sector were possibly connected. This subsequently showed the
 paths in which risks could spread from one sector to another.
 By bringing these datasets together my analysis created a completer and more
 detailed full picture of the financial system.
+
+**View in** Financial-stability-analysis/Datasets
