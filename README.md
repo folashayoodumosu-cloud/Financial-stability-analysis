@@ -35,5 +35,7 @@ detailed full picture of the financial system.
 **View in** [Datasets](https://github.com/folashayoodumosu-cloud/Financial-stability-analysis/tree/main/Datasets)
 
 # Results
+ The main things I measured were how easily banks could pay short-term debts (Liquidity Ratio), how much SONIA rates bounced up and down (Volatility) and the total money flowing into the different sectors. I then used a tool called Prophet to estimate what SONIA and the liquidity numbers might look like over the next five years if things stayed the same.
+
 
 
