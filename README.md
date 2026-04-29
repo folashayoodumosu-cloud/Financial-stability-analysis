@@ -44,7 +44,7 @@ detailed full picture of the financial system.
 ![image](https://github.com/folashayoodumosu-cloud/Financial-stability-analysis/blob/9475ad6c7a18fe4ac5ee1160bbe776c24a5ba555/Results/Result%20images/UK%20banks%20liquidity%20ratio.png)
 
 ## Flow of Funds graph created in Python
-![image](https://github.com/folashayoodumosu-cloud/Financial-stability-analysis/blob/9475ad6c7a18fe4ac5ee1160bbe776c24a5ba555/Results/Result%20images/flow%20of%20fund.png
+![image](https://github.com/folashayoodumosu-cloud/Financial-stability-analysis/blob/9475ad6c7a18fe4ac5ee1160bbe776c24a5ba555/Results/Result%20images/flow%20of%20fund.png)
 
 ## Liquidity ratio graph with 5 years forecasted created in Python
 ![image](https://github.com/folashayoodumosu-cloud/Financial-stability-analysis/blob/9475ad6c7a18fe4ac5ee1160bbe776c24a5ba555/Results/Result%20images/liquidity%20ratio%20forecast.png)
